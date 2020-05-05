@@ -1,0 +1,22 @@
+{
+  "name": "handleapikeys",
+  "version": "1.0.0",
+  "description": "Based on the Coding Train tutorial on hiding API keys with environment variables (dotenv)",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanssenstijn/HandleApiKeys.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanssenstijn/HandleApiKeys/issues"
+  },
+  "homepage": "https://github.com/hanssenstijn/HandleApiKeys#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
